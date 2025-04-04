@@ -1,0 +1,61 @@
+body {
+    background-color: #1e1e2e;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+    background: linear-gradient(135deg, #3f5efb, #fc466b);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+  }
+  
+  .title {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .input-date {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .check-btn {
+    background: #ff7eb3;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .check-btn:hover {
+    background: #ff5f91;
+  }
+  
+  .result-card {
+    margin-top: 20px;
+    padding: 20px;
+    background: white;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .zodiac-icon {
+    font-size: 50px;
+  }
+  
