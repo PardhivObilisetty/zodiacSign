@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZodiacChecker/static/css/main.93d80131.css",
+    "main.js": "/ZodiacChecker/static/js/main.42725051.js",
+    "static/js/453.8923f235.chunk.js": "/ZodiacChecker/static/js/453.8923f235.chunk.js",
+    "index.html": "/ZodiacChecker/index.html",
+    "main.93d80131.css.map": "/ZodiacChecker/static/css/main.93d80131.css.map",
+    "main.42725051.js.map": "/ZodiacChecker/static/js/main.42725051.js.map",
+    "453.8923f235.chunk.js.map": "/ZodiacChecker/static/js/453.8923f235.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d80131.css",
+    "static/js/main.42725051.js"
+  ]
+}
